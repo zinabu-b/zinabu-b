@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hello, I'm Zinabu Bekele Tadese</h1>
 
 <p align="center">
-  <strong>Health Informatician | AI and Machine Learning Researcher | Digital Health Advocate</strong><br>
+  <strong>AI and Machine Learning Researcher | Digital Health Advocate | Health Informatician </strong><br>
   <em>Bridging technology and health to improve patient outcomes and strengthen systems</em>
 </p>
 
@@ -15,20 +15,21 @@
 
 ## 🧠 About Me
 
-🎓 I'm a lecturer and researcher in Health Informatics with a strong passion for using AI and data science to solve real-world healthcare problems in Ethiopia and beyond.
+🎓 I'm a **Lecturer & Researcher** in Health Informatics with a strong passion for using AI and data science to solve real-world healthcare problems in Ethiopia and beyond.
 
 - 📍 Based in Ethiopia, building machine learning models to support clinical decision-making.
 - 👨‍🏫 Teaching undergraduate and graduate students in Health Informatics.
 - 🔬 Principal Investigator on AI-based preterm birth prediction research.
 - 🤝 Coordinator of the CBMP — a national capacity-building initiative for digital health systems.
+- 💡 Keen on innovation in **digital health**, **data science**, and **AI ethics**
 
 ---
 
 ## 🔬 Ongoing Projects
 
-### 🍼 Preterm Birth Prognostic Model  
+### 🍼 Prognostic Model for Preterm Birth  
 Developing a machine learning–based tool to predict preterm birth risks using clinical data from hospitals in Ethiopia’s Afar region.  
-> 🔧 Tools: Python, scikit-learn, TensorFlow, SHAP, Streamlit  
+> 🛠 Tools: `Python`, `TensorFlow`, `scikit-learn`, `SHAP`, `Streamlit`  
 > 📍 Role: Principal Investigator  
 > 🔗 [Visit Project Page](https://zinabu-b.github.io)
 
@@ -55,7 +56,7 @@ National project improving health information systems and digital health capacit
 
 ## 🧾 Recent Publications
 
-- 📄 **Forecasting tuberculosis in Ethiopia using deep learning:** — BMC, 2025  
+- 📄 **Forecasting tuberculosis in Ethiopia using deep learning:** — BMC infectious disease, 2025  
 - 📚 10+ peer-reviewed publications (7 in Q1, 3 in Q2 journals)  
 - 🔍 Explore on [ResearchGate](https://www.researchgate.net/profile/Zinabu-Tadese)
 
