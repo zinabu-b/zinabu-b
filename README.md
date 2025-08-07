@@ -1,14 +1,14 @@
 <h1 align="center">👋 Hello, I'm Zinabu Bekele Tadese</h1>
 
 <p align="center">
-  <strong>Health Informatician | AI Researcher | Digital Health Advocate</strong><br>
+  <strong>Health Informatician | AI and Machine Learning Researcher | Digital Health Advocate</strong><br>
   <em>Bridging technology and health to improve patient outcomes and strengthen systems</em>
 </p>
 
 <p align="center">
   <a href="https://zinabu-b.github.io"><img src="https://img.shields.io/badge/Website-Zinabu_B-0e76a8?style=flat&logo=google-chrome" /></a>
   <a href="https://www.researchgate.net/profile/Zinabu-Tadese"><img src="https://img.shields.io/badge/ResearchGate-Profile-00ccbb?style=flat&logo=researchgate" /></a>
-  <a href="https://linkedin.com/in/zinabu-bekele"><img src="https://img.shields.io/badge/LinkedIn-Zinabu_Bekele-blue?style=flat&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/zinabubekele12/"><img src="https://img.shields.io/badge/LinkedIn-Zinabu_Bekele-blue?style=flat&logo=linkedin" /></a>
 </p>
 
 ---
