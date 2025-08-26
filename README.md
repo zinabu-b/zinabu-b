@@ -38,7 +38,7 @@ Developing a machine learning–based tool to predict preterm birth risks using 
 National project improving health information systems and digital health capacity in partnership with the Ministry of Health, USAID, and universities.  
 > 🤝 Collaborators: MoH, Semera University, UoG  
 > 🌍 Regional Focus: Afar  
-> 🔗 [View Website](https://zinabu-b.github.io)
+> 🔗 [View Website](https://cbmp.org.et/)
 
 ---
 
