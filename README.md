@@ -79,7 +79,7 @@ National project improving health information systems and digital health capacit
 - 🌐 Website: [zinabu-b.github.io](https://zinabu-b.github.io)
 - 📧 Email: zinabubekele@su.edu.et
 - 🧑‍🔬 Scholar: [Google Scholar](https://scholar.google.com/citations?user=YRt0jnQAAAAJ&hl=en)
-- 💼 LinkedIn: [linkedin.com/in/zinabu-bekele](https://www.linkedin.com/in/zinabubekele12/)
+- 💼 LinkedIn: [linkedin.com/in/zinabu-bekele12](https://www.linkedin.com/in/zinabubekele12/)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=zinabu-b&style=flat-square&color=blue" alt="Profile Views" />
