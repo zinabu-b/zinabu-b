@@ -72,7 +72,7 @@ National project improving health information systems and digital health capacit
 
 ---
 
-## 🗺️ Let's Connect
+## 🗺️Connect with me 
 
 - 🌐 Website: [zinabu-b.github.io](https://zinabu-b.github.io)
 - 📧 Email: zinabubekele@su.edu.et
