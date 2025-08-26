@@ -33,8 +33,7 @@ Developing a machine learning–based tool to predict preterm birth risks using 
 > 📍 Role: Principal Investigator  
 > 🔗 [Visit Project Page](https://zinabu-b.github.io)
 
-### 🏥 CBMP: Capacity Building & Mentorship Program  
-<img width="178" height="75" alt="image" src="https://github.com/user-attachments/assets/d0bbd548-6ffc-4986-8482-337b4eef2c5a" />
+### 🏥 CBMP: Capacity Building & Mentorship Program  <img width="170" height="75" alt="image" src="https://github.com/user-attachments/assets/d0bbd548-6ffc-4986-8482-337b4eef2c5a" />
 
 National project improving health information systems and digital health capacity in partnership with the Ministry of Health, USAID, and universities.  
 > 🤝 Collaborators: MoH, Semera University, UoG  
