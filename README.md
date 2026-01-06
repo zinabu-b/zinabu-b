@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Zinabu Bekele Tadese</h1>
+<h1 align="center">👋 Hello, I'm Zinabu B. Tadese</h1>
 
 <p align="center">
   <strong>AI and Machine Learning Researcher | Digital Health Advocate | Health Informatician </strong><br>
